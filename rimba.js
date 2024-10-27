@@ -258,7 +258,7 @@ var {css,data}=web.model.footer;
 
 out=`<div class="row">
 <div class="col-1-2">
-<p class="made">made with ${svg.view.icon('bayam')} by <a href="https://bayam.id/">BayamJS</a></p>
+<p class="made">made with ${svg.view.icon('bayam')} by <a href="https://rimba.id/">Rimba</a></p>
 </div>
 <div class="col-1-2"><p class="sosmed">`;
 for(i in data){ val=data[i]
