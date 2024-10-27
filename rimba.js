@@ -57,12 +57,13 @@ data:[
 {id:1,nama:'PERFORMANCE',icon:'whatsapp'},]
 },
 
+
 features:{
 id:'features',
 css:'col-1-3',
-data:[{id:1,img:1,nama:'BASIC',gambar:'img/figure-01.png',icon:'camera'},
-{id:1,img:0,nama:'PRO',gambar:'img/figure-02.png',icon:'whatsapp'},
-{id:1,img:1,nama:'PERFORMANCE',gambar:'img/figure-05.png',icon:'facebook'},
+data:[{id:1,img:1,nama:'BASIC',gambar:'https://rimba.id/img/figure-01.png',icon:'camera'},
+{id:1,img:0,nama:'PRO',gambar:'https://rimba.id/img/figure-02.png',icon:'whatsapp'},
+{id:1,img:1,nama:'PERFORMANCE',gambar:'https://rimba.id/img/figure-05.png',icon:'facebook'},
 ]
 },
 
@@ -71,9 +72,9 @@ posts:{
 id:'post',
 css:'col-1-3',
 data:[
-{id:1,nama:'Lion',gambar:'img/photo-01.jpg'},
-{id:1,nama:'Bear',gambar:'img/photo-02.jpg'},
-{id:1,nama:'Koala',gambar:'img/photo-03.jpg'},
+{id:1,nama:'Lion',gambar:'https://rimba.id/img/photo-01.jpg'},
+{id:1,nama:'Bear',gambar:'https://rimba.id/img/photo-02.jpg'},
+{id:1,nama:'Koala',gambar:'https://rimba.id/img/photo-03.jpg'},
 
 ]
 },
@@ -81,14 +82,14 @@ data:[
 portofolio:{
 id:'portofolio',
 css:'col-1-3',
-data:[{id:1,nama:'1',gambar:'img/photo-01.jpg'},
-{id:2,nama:'2',gambar:'img/photo-02.jpg'},
-{id:3,nama:'3',gambar:'img/photo-03.jpg'},
-{id:4,nama:'4',gambar:'img/photo-04.jpg'},
-{id:5,nama:'5',gambar:'img/photo-05.jpg'},
-{id:6,nama:'6',gambar:'img/photo-06.jpg'},
-{id:7,nama:'7',gambar:'img/photo-07.jpg'},
-{id:8,nama:'8',gambar:'img/photo-08.jpg'},
+data:[{id:1,nama:'1',gambar:'https://rimba.id/img/photo-01.jpg'},
+{id:2,nama:'2',gambar:'https://rimba.id/img/photo-02.jpg'},
+{id:3,nama:'3',gambar:'https://rimba.id/img/photo-03.jpg'},
+{id:4,nama:'4',gambar:'https://rimba.id/img/photo-04.jpg'},
+{id:5,nama:'5',gambar:'https://rimba.id/img/photo-05.jpg'},
+{id:6,nama:'6',gambar:'https://rimba.id/img/photo-06.jpg'},
+{id:7,nama:'7',gambar:'https://rimba.id/img/photo-07.jpg'},
+{id:8,nama:'8',gambar:'https://rimba.id/img/photo-08.jpg'},
 ]
 },
 
@@ -422,7 +423,7 @@ data=[
 
 out=`<div class="row col-single">
 <b>Lorem ipsum dolor sit amet</b>
-<img class="float-left" width="320px" src="img/photo-4.jpg" alt="">
+<img class="float-left" width="320px" src="https://rimba.id/img/photo-4.jpg" alt="">
 <p>Consectetur adipisicing elit. Sint, corrupti deleniti, rem mollitia quam cum quo, animi ipsa praesentium officiis ducimus! Modi aperiam, nulla ipsum, totam natus consequuntur fugiat blanditiis.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste harum, ut magni cupiditate. Nihil ipsum debitis voluptates voluptate illum consectetur sapiente dolorem facilis, eum nobis sequi eveniet assumenda vel voluptatem!</p>
 <p>Consectetur adipisicing elit. Sint, corrupti deleniti, rem mollitia quam cum quo, animi ipsa praesentium officiis ducimus! Modi aperiam, nulla ipsum, totam natus consequuntur fugiat blanditiis.</p>
