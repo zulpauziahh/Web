@@ -290,7 +290,7 @@ out+=`
 <div class="artikel ">
 
 <p>${svg.view.icon(val.icon)}</p>
-<b>Simple and Clean</b>
+<b>Another</b>
 <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
 <p><a class="" href="#" >View details</a></p>
 </div>
