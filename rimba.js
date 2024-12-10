@@ -290,8 +290,8 @@ out+=`
 <div class="artikel ">
 
 <p>${svg.view.icon(val.icon)}</p>
-<b>Web Online</b>
-<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<b>Another Online</b>
+<p>Silahkan masuk ke akun sosial media anda.</p>
 <p><a class="" href="#" >View details</a></p>
 </div>
 </div>
